@@ -1,0 +1,8 @@
+D:\aaa\testt\StringsV2\MagicChangingWords\bin\Debug\MagicChangingWords.exe.config
+D:\aaa\testt\StringsV2\MagicChangingWords\bin\Debug\MagicChangingWords.exe
+D:\aaa\testt\StringsV2\MagicChangingWords\bin\Debug\MagicChangingWords.pdb
+D:\aaa\testt\StringsV2\MagicChangingWords\obj\Debug\MagicChangingWords.csproj.AssemblyReference.cache
+D:\aaa\testt\StringsV2\MagicChangingWords\obj\Debug\MagicChangingWords.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\StringsV2\MagicChangingWords\obj\Debug\MagicChangingWords.csproj.CoreCompileInputs.cache
+D:\aaa\testt\StringsV2\MagicChangingWords\obj\Debug\MagicChangingWords.exe
+D:\aaa\testt\StringsV2\MagicChangingWords\obj\Debug\MagicChangingWords.pdb

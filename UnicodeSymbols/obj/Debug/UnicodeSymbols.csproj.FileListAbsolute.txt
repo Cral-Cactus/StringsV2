@@ -1,0 +1,8 @@
+D:\aaa\testt\StringsV2\UnicodeSymbols\bin\Debug\UnicodeSymbols.exe.config
+D:\aaa\testt\StringsV2\UnicodeSymbols\bin\Debug\UnicodeSymbols.exe
+D:\aaa\testt\StringsV2\UnicodeSymbols\bin\Debug\UnicodeSymbols.pdb
+D:\aaa\testt\StringsV2\UnicodeSymbols\obj\Debug\UnicodeSymbols.csproj.AssemblyReference.cache
+D:\aaa\testt\StringsV2\UnicodeSymbols\obj\Debug\UnicodeSymbols.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\StringsV2\UnicodeSymbols\obj\Debug\UnicodeSymbols.csproj.CoreCompileInputs.cache
+D:\aaa\testt\StringsV2\UnicodeSymbols\obj\Debug\UnicodeSymbols.exe
+D:\aaa\testt\StringsV2\UnicodeSymbols\obj\Debug\UnicodeSymbols.pdb

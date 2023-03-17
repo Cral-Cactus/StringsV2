@@ -1,0 +1,8 @@
+D:\aaa\testt\StringsV2\SumBigNumbers\bin\Debug\SumBigNumbers.exe.config
+D:\aaa\testt\StringsV2\SumBigNumbers\bin\Debug\SumBigNumbers.exe
+D:\aaa\testt\StringsV2\SumBigNumbers\bin\Debug\SumBigNumbers.pdb
+D:\aaa\testt\StringsV2\SumBigNumbers\obj\Debug\SumBigNumbers.csproj.AssemblyReference.cache
+D:\aaa\testt\StringsV2\SumBigNumbers\obj\Debug\SumBigNumbers.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\StringsV2\SumBigNumbers\obj\Debug\SumBigNumbers.csproj.CoreCompileInputs.cache
+D:\aaa\testt\StringsV2\SumBigNumbers\obj\Debug\SumBigNumbers.exe
+D:\aaa\testt\StringsV2\SumBigNumbers\obj\Debug\SumBigNumbers.pdb

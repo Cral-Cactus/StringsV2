@@ -1,0 +1,8 @@
+D:\aaa\testt\StringsV2\MultiplyBigNumbers\bin\Debug\MultiplyBigNumbers.exe.config
+D:\aaa\testt\StringsV2\MultiplyBigNumbers\bin\Debug\MultiplyBigNumbers.exe
+D:\aaa\testt\StringsV2\MultiplyBigNumbers\bin\Debug\MultiplyBigNumbers.pdb
+D:\aaa\testt\StringsV2\MultiplyBigNumbers\obj\Debug\MultiplyBigNumbers.csproj.AssemblyReference.cache
+D:\aaa\testt\StringsV2\MultiplyBigNumbers\obj\Debug\MultiplyBigNumbers.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\StringsV2\MultiplyBigNumbers\obj\Debug\MultiplyBigNumbers.csproj.CoreCompileInputs.cache
+D:\aaa\testt\StringsV2\MultiplyBigNumbers\obj\Debug\MultiplyBigNumbers.exe
+D:\aaa\testt\StringsV2\MultiplyBigNumbers\obj\Debug\MultiplyBigNumbers.pdb

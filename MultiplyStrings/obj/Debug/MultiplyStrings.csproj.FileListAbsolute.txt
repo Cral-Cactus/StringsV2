@@ -1,0 +1,8 @@
+D:\aaa\testt\StringsV2\MultiplyStrings\bin\Debug\MultiplyStrings.exe.config
+D:\aaa\testt\StringsV2\MultiplyStrings\bin\Debug\MultiplyStrings.exe
+D:\aaa\testt\StringsV2\MultiplyStrings\bin\Debug\MultiplyStrings.pdb
+D:\aaa\testt\StringsV2\MultiplyStrings\obj\Debug\MultiplyStrings.csproj.AssemblyReference.cache
+D:\aaa\testt\StringsV2\MultiplyStrings\obj\Debug\MultiplyStrings.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\StringsV2\MultiplyStrings\obj\Debug\MultiplyStrings.csproj.CoreCompileInputs.cache
+D:\aaa\testt\StringsV2\MultiplyStrings\obj\Debug\MultiplyStrings.exe
+D:\aaa\testt\StringsV2\MultiplyStrings\obj\Debug\MultiplyStrings.pdb

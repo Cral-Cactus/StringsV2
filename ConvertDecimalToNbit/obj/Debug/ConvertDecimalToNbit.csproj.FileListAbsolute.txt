@@ -1,0 +1,8 @@
+D:\aaa\testt\StringsV2\ConvertDecimalToNbit\bin\Debug\ConvertDecimalToNbit.exe.config
+D:\aaa\testt\StringsV2\ConvertDecimalToNbit\bin\Debug\ConvertDecimalToNbit.exe
+D:\aaa\testt\StringsV2\ConvertDecimalToNbit\bin\Debug\ConvertDecimalToNbit.pdb
+D:\aaa\testt\StringsV2\ConvertDecimalToNbit\obj\Debug\ConvertDecimalToNbit.csproj.AssemblyReference.cache
+D:\aaa\testt\StringsV2\ConvertDecimalToNbit\obj\Debug\ConvertDecimalToNbit.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\StringsV2\ConvertDecimalToNbit\obj\Debug\ConvertDecimalToNbit.csproj.CoreCompileInputs.cache
+D:\aaa\testt\StringsV2\ConvertDecimalToNbit\obj\Debug\ConvertDecimalToNbit.exe
+D:\aaa\testt\StringsV2\ConvertDecimalToNbit\obj\Debug\ConvertDecimalToNbit.pdb

@@ -1,0 +1,8 @@
+D:\aaa\testt\StringsV2\ReversingAString\bin\Debug\ReversingAString.exe.config
+D:\aaa\testt\StringsV2\ReversingAString\bin\Debug\ReversingAString.exe
+D:\aaa\testt\StringsV2\ReversingAString\bin\Debug\ReversingAString.pdb
+D:\aaa\testt\StringsV2\ReversingAString\obj\Debug\ReversingAString.csproj.AssemblyReference.cache
+D:\aaa\testt\StringsV2\ReversingAString\obj\Debug\ReversingAString.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\StringsV2\ReversingAString\obj\Debug\ReversingAString.csproj.CoreCompileInputs.cache
+D:\aaa\testt\StringsV2\ReversingAString\obj\Debug\ReversingAString.exe
+D:\aaa\testt\StringsV2\ReversingAString\obj\Debug\ReversingAString.pdb

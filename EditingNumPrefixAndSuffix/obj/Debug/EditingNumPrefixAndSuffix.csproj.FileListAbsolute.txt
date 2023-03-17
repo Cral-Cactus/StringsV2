@@ -1,0 +1,8 @@
+D:\aaa\testt\StringsV2\EditingNumPrefixAndSuffix\bin\Debug\EditingNumPrefixAndSuffix.exe.config
+D:\aaa\testt\StringsV2\EditingNumPrefixAndSuffix\bin\Debug\EditingNumPrefixAndSuffix.exe
+D:\aaa\testt\StringsV2\EditingNumPrefixAndSuffix\bin\Debug\EditingNumPrefixAndSuffix.pdb
+D:\aaa\testt\StringsV2\EditingNumPrefixAndSuffix\obj\Debug\EditingNumPrefixAndSuffix.csproj.AssemblyReference.cache
+D:\aaa\testt\StringsV2\EditingNumPrefixAndSuffix\obj\Debug\EditingNumPrefixAndSuffix.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\StringsV2\EditingNumPrefixAndSuffix\obj\Debug\EditingNumPrefixAndSuffix.csproj.CoreCompileInputs.cache
+D:\aaa\testt\StringsV2\EditingNumPrefixAndSuffix\obj\Debug\EditingNumPrefixAndSuffix.exe
+D:\aaa\testt\StringsV2\EditingNumPrefixAndSuffix\obj\Debug\EditingNumPrefixAndSuffix.pdb
